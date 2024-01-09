@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nF4AyyvnZi1EvDIJufMKoxY6ylXL4yXGh7gyolAZUGA=",
+  "Hash": "cJO0ncX4sFFI8zOZ8khxxE4uPKfHPWfA5ma9wzKk79o=",
   "Source": "PdfViewer",
   "BasePath": "_content/PdfViewer",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\fredi\\Documents\\projetcshap\\PdfViewer\\PdfViewer\\wwwroot\\files\\CV Sandrine Gantchop (1).pdf",
+      "SourceId": "PdfViewer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fredi\\Documents\\projetcshap\\PdfViewer\\PdfViewer\\wwwroot\\",
+      "BasePath": "_content/PdfViewer",
+      "RelativePath": "files/CV Sandrine Gantchop (1).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\CV Sandrine Gantchop (1).pdf"
     },
     {
       "Identity": "C:\\Users\\fredi\\Documents\\projetcshap\\PdfViewer\\PdfViewer\\wwwroot\\js\\site.js",

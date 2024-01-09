@@ -21,6 +21,8 @@
                 <th>SL    </th>
                 <th>PDF Name    </th>
                 <th>Display Type    </th>
+                <th>Display Type    </th>
+                <th>Action</th>
             </tr>
         </thead>
         <tbody >
@@ -32,6 +34,10 @@
                     <td>
                         <a href="../Files1/index?fileName=@file.Name" style="margin-right:10px;">Page courante</a>
                         <a href="../Files1/PDFViewerNewTab?fileName=@file.Name" target="_blank" style="margin-right:10px;">Nouvel Onglet</a>
+                    </td>
+                    <td>
+                        <a href="../Files1/index?fileName=@file.Name&isDelete=true" style="margin-right:10px;">supprimer</a>
+                       
                     </td>
                 </tr>
             }

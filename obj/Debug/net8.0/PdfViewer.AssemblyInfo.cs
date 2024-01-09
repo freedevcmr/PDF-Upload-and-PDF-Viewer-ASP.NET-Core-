@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PdfViewer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc554ed6e19ecb04014fad09411c0a76f04f632d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PdfViewer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PdfViewer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\fredi\\Documents\\projetcshap\\PdfViewer\\PdfViewer\\wwwroot\\files\\CV Sandrine Gantchop (1).pdf",
+      "PackagePath": "staticwebassets\\files\\CV Sandrine Gantchop (1).pdf"
+    },
+    {
       "Id": "C:\\Users\\fredi\\Documents\\projetcshap\\PdfViewer\\PdfViewer\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

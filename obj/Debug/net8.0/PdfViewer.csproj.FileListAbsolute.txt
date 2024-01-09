@@ -28,3 +28,4 @@ C:\Users\fredi\Documents\projetcshap\PdfViewer\PdfViewer\obj\Debug\net8.0\refint
 C:\Users\fredi\Documents\projetcshap\PdfViewer\PdfViewer\obj\Debug\net8.0\PdfViewer.pdb
 C:\Users\fredi\Documents\projetcshap\PdfViewer\PdfViewer\obj\Debug\net8.0\PdfViewer.genruntimeconfig.cache
 C:\Users\fredi\Documents\projetcshap\PdfViewer\PdfViewer\obj\Debug\net8.0\ref\PdfViewer.dll
+C:\Users\fredi\Documents\projetcshap\PdfViewer\PdfViewer\obj\Debug\net8.0\PdfViewer.sourcelink.json
